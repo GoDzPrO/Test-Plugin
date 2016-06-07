@@ -1,0 +1,4 @@
+name: TestPlugin
+author: GoDzPrO
+version: 0.1
+main: test.Test
